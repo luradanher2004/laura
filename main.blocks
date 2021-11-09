@@ -1,25 +1,25 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id=",L0B{[}}9]jo$JEhA]sI" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="kxS+G#fLd^Ci!;,SdHru"><field name="LEDS">`
-        . . . . . 
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="BFCnRpPlIODBIS]?k#|=" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="$~k^r;CSIh#z%s49WX}+"><field name="LEDS">`
+        . # . . . 
         . . . . . 
         . . . . . 
         . . # . . 
         . # # # .
-        `</field><next><block type="device_clear_display" id="oAwo$?+qp5~O.A=1Hv)K"><next><block type="device_show_leds" id="1}v41_PH8x=Ki67[dz=a"><field name="LEDS">`
+        `</field><next><block type="device_clear_display" id="NY.]`_;jC.CE8ku{uLVa"><next><block type="device_show_leds" id="Pu00/W246qgZUN2h2-RV"><field name="LEDS">`
         . . # . . 
         . # # # . 
         # # # # # 
         . . . . . 
         . . . . .
-        `</field><next><block type="device_show_leds" id="/n5PWB[[w@%T,)ID?8[;"><field name="LEDS">`
+        `</field><next><block type="device_show_leds" id="7(K1p%sSngE[Dg,W:0I*"><field name="LEDS">`
         . . . . . 
         . # . # . 
         . . . . . 
         # . . . # 
         . # # # .
-        `</field><next><block type="device_clear_display" id="}#=;;Sqkg4RnU%%`ssnE"><next><block type="device_show_leds" id="]u}35=mHAH8^;qiKuiWC"><field name="LEDS">`
+        `</field><next><block type="device_clear_display" id="_Az,U-jg/VbTkvYTN+Iy"><next><block type="device_show_leds" id="g5N@Rj^rMiAY!+6h9YPU"><field name="LEDS">`
         . . . . . 
         . # . # . 
         . . . . . 
         . # # # . 
         # . . . #
-        `</field><next><block type="device_clear_display" id="TqXizqz|e-8c;b@~1O69"/></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
+        `</field><next><block type="device_clear_display" id="yD|]kuK%k^rG}mrmybQ~"/></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
